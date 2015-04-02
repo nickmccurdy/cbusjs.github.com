@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBusJS</title>
+    <description>Columbus JavaScript User Group</description>
+    <link>http://cbusjs.github.io/</link>
+    <atom:link href="http://cbusjs.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Apr 2015 21:58:04 -0400</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 21:58:04 -0400</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Grunt, Gulp, Broccoli, Make, NewShinyBuilder... Who needs &#39;em!?</title>
+        <description>&lt;p&gt;Jason Karns will talk about why we don’t really need all these build tools.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 May 2015 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/05-20-2015/grunt-gulp-broccoli-make.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/05-20-2015/grunt-gulp-broccoli-make.html</guid>
+        
+        
+        <category>jason karns</category>
+        
+      </item>
+    
+      <item>
+        <title>ECMAScript 6 Now!</title>
+        <description>&lt;p&gt;ECMAScript most famous dialect is JavaScript, and the coming version is
+ECMAScript 6 (ES6). Browsers already started supporting some of its features.
+JS programmers need to start learning about the coming changes. The presentation
+will show some of ES6 most useful features like classes, block scope,
+collections, proxies, arrow functions, iterators, generators, comprehensions,
+and modules. We will concentrate on the practical aspects of the changes. The
+session will be interactive, includes many code examples, and will encourage
+audience participation. By the end of the presentation, participants will know
+when and how to use ES6 in their own projects.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/04-15-2015/ecmascript-6-now.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/04-15-2015/ecmascript-6-now.html</guid>
+        
+        
+        <category>abdul habra</category>
+        
+      </item>
+    
+      <item>
+        <title>Test Driving with Testem and Jasmine</title>
+        <description>&lt;p&gt;Guy Royse will guide the group in test driven development with Testem and Jasmine.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2015 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/03-18-2015/testem-and-jasmine.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/03-18-2015/testem-and-jasmine.html</guid>
+        
+        
+        <category>guy royse</category>
+        
+      </item>
+    
+      <item>
+        <title>Gulp.js</title>
+        <description>&lt;p&gt;Ben Gladwell will give a talk on Gulp.js. Gulp is a popular task runner/build tool. It’s powered by NodeJS and uses pipes for streaming data. There are a vast array of Gulp plugins available for tasks such as minifying code, uglifying javascript, watching files, and live-reloading the browser when files have changed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/ben-gladwell2.jpg&quot; alt=&quot;Ben Gladwell on Gulp.js&quot; title=&quot;Ben Gladwell on Gulp.js&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/ben-gladwell1.jpg&quot; alt=&quot;Ben Gladwell on Gulp.js&quot; title=&quot;Ben Gladwell on Gulp.js&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Feb 2015 13:30:00 -0500</pubDate>
+        <link>http://cbusjs.github.io/02-18-2015/ben-gladwell.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/02-18-2015/ben-gladwell.html</guid>
+        
+        
+        <category>ben gladwell</category>
+        
+      </item>
+    
+      <item>
+        <title>Polymer</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.polymer-project.org&quot;&gt;www.polymer-project.org&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;“Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond.”&lt;/p&gt;
+
+&lt;p&gt;Polymer learning events and resources: &lt;a href=&quot;http://itshackademic.com/&quot;&gt;itshackademic.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Other good resources: &lt;a href=&quot;http://webcomponents.org/&quot;&gt;webcomponents.org&lt;/a&gt;, &lt;a href=&quot;http://component.kitchen/&quot;&gt;component.kitchen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/pete1.jpg&quot; alt=&quot;Pete Gordon on Polymer&quot; title=&quot;Pete Gordon on Polymer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/pete2.jpg&quot; alt=&quot;Pete Gordon on Polymer&quot; title=&quot;Pete Gordon on Polymer&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Jan 2015 13:30:00 -0500</pubDate>
+        <link>http://cbusjs.github.io/01-21-2015/polymer.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/01-21-2015/polymer.html</guid>
+        
+        
+        <category>pete gordon</category>
+        
+      </item>
+    
+      <item>
+        <title>Evercraft Kata</title>
+        <description>&lt;p&gt;We’ll be joining together for the holidays with an extended Code Kata session. Guy will be leading the group in coding the Evercraft Kata.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/evercraft1.jpg&quot; alt=&quot;Guy leading the EverCraft Kata&quot; title=&quot;Guy leading the EverCraft Kata&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/evercraft2.jpg&quot; alt=&quot;Guy leading the EverCraft Kata&quot; title=&quot;Guy leading the EverCraft Kata&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Dec 2014 13:30:00 -0500</pubDate>
+        <link>http://cbusjs.github.io/12-17-2014/evercraft-kata.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/12-17-2014/evercraft-kata.html</guid>
+        
+        
+        <category>guy royse</category>
+        
+      </item>
+    
+      <item>
+        <title>Node-Webkit</title>
+        <description>&lt;p&gt;Node-Webkit is an app runtime based on Chromium and Node.js. You can write native apps in HTML and JavaScript with Node-Webkit. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all web technologies.&lt;/p&gt;
+
+&lt;p&gt;The presentation is available on github: &lt;a href=&quot;https://github.com/scottpreston/presentations/tree/master/node-webkit&quot;&gt;github.com/scottpreston/presentations/tree/master/node-webkit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/rogerwang/node-webkit&quot;&gt;github.com/rogerwang/node-webkit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/scottpreston.jpg&quot; alt=&quot;Scott Preston&quot; title=&quot;Scott Preston&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 13:30:00 -0500</pubDate>
+        <link>http://cbusjs.github.io/11-19-2014/node-webkit.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/11-19-2014/node-webkit.html</guid>
+        
+        
+        <category>scott preston</category>
+        
+      </item>
+    
+      <item>
+        <title>Building Killer Javascript Apps With IBM Bluemix</title>
+        <description>&lt;p&gt;Bluemix is a platform-as-a-service (PaaS) offering from IBM with roots deeply grounded in an open source project called Cloud Foundry. Javascript is a first class citizen when it comes to applications running on Bluemix.&lt;/p&gt;
+
+&lt;p&gt;The combination of Javascript and Bluemix allows developers to quickly build and deploy all types of applications to the public cloud in a matter of seconds. This talk will actually be composed of several smaller talks that show just how powerful Bluemixcan be.&lt;/p&gt;
+
+&lt;p&gt;We will start off with an introduction to Bluemix and show you the basics of using the platform. We will then walk you through how you would build and deploy a typical Node.js web application toBluemix. Finally, we will cover more advanced topics like the internet of things (IoT) and cognitive computing using Bluemix.&lt;/p&gt;
+
+&lt;p&gt;If you are at all interested in using a PaaS in your next project or want to learn about how a PaaS can change the way you build Javascript apps, we hope you will come and join us for a jam-packed evening that is sure to impress.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/ryan-baxter.jpg&quot; alt=&quot;Ryan Baxter&quot; title=&quot;Ryan Baxter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/anton-mcconville.jpg&quot; alt=&quot;Anton McConville&quot; title=&quot;Anton McConville&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/nathan-vega.jpg&quot; alt=&quot;Nathan Vega&quot; title=&quot;Nathan Vega&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Oct 2014 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/10-15-2014/building-killer-javascript-apps-with-ibm-bluemix.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/10-15-2014/building-killer-javascript-apps-with-ibm-bluemix.html</guid>
+        
+        
+        <category>ryan baxter</category>
+        
+        <category>anton mc conville</category>
+        
+        <category>nathan vega</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaScript Hardware Night</title>
+        <description>&lt;p&gt;On Wednesday, September 17th, we are having a JavaScript Hardware Night. Bring your JavaScript powered hardware projects and share them with the group (if you like). Bring stuff to hack on and bring your ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scott Preston will be bringing his robots.&lt;/li&gt;
+  &lt;li&gt;Doug Reeder is planning something with the Connect SDK.&lt;/li&gt;
+  &lt;li&gt;Guy Royse will share his work with Johnny Five, the Arduino, and Raspberry Pi.&lt;/li&gt;
+  &lt;li&gt;Keith McCanless might even have a JS Hardware talk prepared (hint, hint) around the Beaglebone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The format will be loose. People who want to share their ideas will be given a screen to do it on. If you just want to hack, then pair up with some buddies and have at it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/doug.jpg&quot; alt=&quot;Doug Reeder&quot; title=&quot;Doug Reeder on Connect SDK&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/scott.jpg&quot; alt=&quot;Scott Preston&quot; title=&quot;Scott Preston with his robot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/keith.jpg&quot; alt=&quot;Keith McCanless&quot; title=&quot;Keith McCanless on Beaglebone&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Sep 2014 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/09-17-2014/javascript-hardware-night.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/09-17-2014/javascript-hardware-night.html</guid>
+        
+        
+        <category>scott preston</category>
+        
+        <category>doug reeder</category>
+        
+        <category>guy royse</category>
+        
+        <category>keith mc canless</category>
+        
+      </item>
+    
+      <item>
+        <title>Dethroning Grunt: Simple and Effective Builds with Gulp</title>
+        <description>&lt;p&gt;Grunt is king. It is the ubiquitous task runner used for most nodejs projects and has quickly expanded to conquer other software ecosystems. However, its kingdom is vulnerable. Grunt does not align well with many nodejs paradigms and is notorious for its harsh learning curve. Meet Gulp, the challenger in the taskrunner revolution. Gulp’s easy configuration produces an easy learning curve, and its alignment with nodejs paradigms eliminates the friction. Grab your ticket, your foam finger, and your team-colored face paint and witness the battle, the revolution, and the crowning of Gulp.&lt;/p&gt;
+
+&lt;p&gt;The deck is already online, too at &lt;a href=&quot;https://speakerdeck.com/jayharris/dethroning-grunt-simple-and-effective-builds-with-gulp-dot-js&quot;&gt;speakerdeck.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cbusjs.github.io/images/jayharris.jpg&quot; alt=&quot;Jay Harris&quot; title=&quot;Jay Harris on Gulp&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Aug 2014 14:30:00 -0400</pubDate>
+        <link>http://cbusjs.github.io/08-20-2014/simple-and-effective-builds-with-gulp.html</link>
+        <guid isPermaLink="true">http://cbusjs.github.io/08-20-2014/simple-and-effective-builds-with-gulp.html</guid>
+        
+        
+        <category>jay harris</category>
+        
+      </item>
+    
+  </channel>
+</rss>
